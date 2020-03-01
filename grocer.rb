@@ -48,8 +48,7 @@ def consolidate_cart(cart)
    idx += 1
  end
 
-unique_item_cart << item_count
-unique_item_cart
+
  binding.pry
 
 
